@@ -1,5 +1,5 @@
 {
-  "name": "robust",
+  "name": "robustjs",
   "version": "0.0.1-alpha",
   "description": "A robust modular Javascript framework for your next application",
   "main": "index.js",

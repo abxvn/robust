@@ -1,0 +1,25 @@
+{
+  "name": "robust",
+  "version": "0.0.1-alpha",
+  "description": "A robust modular Javascript framework for your next application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robustjs/robust.git"
+  },
+  "keywords": [
+    "framework",
+    "js",
+    "javascript",
+    "modular"
+  ],
+  "author": "Hung Luu <hungluu2106@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robustjs/robust/issues"
+  },
+  "homepage": "https://github.com/robustjs/robust#readme"
+}
